@@ -5,7 +5,7 @@
 * Storyboard
 * MVC
 
-## what this app does?
+## API
 * Coinapi.io api used for coin data
 * Cryptoicons.org api used for the coin logos.
 
